@@ -10,7 +10,7 @@ class Ideone
 		 int number=10;
         if(number > 0)
         {
-            System.out.println(Positive");
+            System.out.println("Positive");
         }
         else if(number < 0)
         {

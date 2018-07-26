@@ -7,18 +7,18 @@ class Ideone
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		 int number=109;
+		 int number;
         if(number > 0)
         {
-            System.out.println(number+" is a positive number");
+            System.out.println(number+" is a Positive number");
         }
         else if(number < 0)
         {
-            System.out.println(number+" is a negative number");
+            System.out.println(number+" is a Negative number");
         }
         else
         {
-            System.out.println(number+" is neither positive nor negative");
+            System.out.println(number+" is neither Positive nor Negative");
         }
 	}
 }

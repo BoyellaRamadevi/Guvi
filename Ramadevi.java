@@ -7,7 +7,7 @@ class Ideone
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		 int number;
+		 int number=10;
         if(number > 0)
         {
             System.out.println(number+" is a Positive number");

@@ -10,8 +10,6 @@ class Bhanu
 	public static void main (String[] args) throws java.lang.Exception
 	{
 	 Scanner reader = new Scanner(System.in);
-
-        System.out.println("INPUT ");
         int num = reader.nextInt();
 
         if(num % 2 == 0)

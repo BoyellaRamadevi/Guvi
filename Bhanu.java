@@ -11,7 +11,7 @@ class Bhanu
 	{
 	 Scanner reader = new Scanner(System.in);
 
-        System.out.println("Enter a number: ");
+        System.out.println("INPUT ");
         int num = reader.nextInt();
 
         if(num % 2 == 0)
